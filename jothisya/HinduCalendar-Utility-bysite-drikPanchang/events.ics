@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+X-GOOGLE-CALENDAR-CONTENT-DISPLAY:chip
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://calendar.google.com/googlecalendar/images/cake.gif
+DTSTART;VALUE=DATE:20200818
+SUMMARY:India's Independence Day
+UID:ce5dd3ff-78b4-4a47-8dc6-03d39f8c0975@ce5d.org
+END:VEVENT
+PRODID:HinduCalendar() using drikPanchang.com by Hrishikesh Terdalkar
+VERSION:2.0
+END:VCALENDAR

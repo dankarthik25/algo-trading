@@ -1,0 +1,204 @@
+* Introduction
+
+Youtube links 
+
+Stock market for beginners - My Investment Strategies reveale: 
+by CodeWithHarry
+https://www.youtube.com/watch?v=G6Hai-W9pRE
+
+How to Start Investing for Beginners in 2021 | Stocks, Mutual Funds, Bitcoin Explained! 
+by Ishan Sharma
+https://www.youtube.com/watch?v=DeYZTn3G0MA
+
+
+
+
+What is compoding ? 
+SIP: avg of dollar cost avg
+
+- Types of investment
+  - fixed deposit[stable] : bank, real-estate, land, gold, oil
+    - When to choose FD vs stock
+      FD तोड़के SHARE MARKET में निवेश : किसके लिए है FD और किसके लिए SHARE MARKET? | FD vs. SHARE MARKET
+      https://www.youtube.com/watch?v=2CEYLUVIYY4
+    - FD Fixed Deposit - Investment Guide | FD Good or Bad | FD Safe or Risky | Investments Better Than FD
+      - https://www.youtube.com/watch?v=NRHR26Knh4c  
+  - invest in secure assets : (gold , land ,oil,   company (tata))
+  - Bank Saving [stable, less return]
+    - intrest rates
+      - may increse but most probabilty will reduces (if inflation more the intrest rate the it is loss )
+  - gold 
+    - physical gold
+    - digital gold
+    - gold funds
+    - gold etf
+  - mutal funds ()
+    - Comission 
+      - Mutaual Fund sale person (Comission)
+      - Fund Manager (Comission )  
+      - Entry Load Comission
+      - Exit Load Comission
+      - (80% of manage mutal fund not able to defeate index fund, stock-brocekr comission: 1% )
+        
+  - stocks 
+    - Stock Indexing(dividents, capital,) 
+     - nifty50
+     - sense
+     - online stock management <google app> (growth, zerotha,small case,kubhere)
+     - algorithmic trading
+  - equity
+  - bonds
+  - forex
+             
+- Types of investment (static, dynamics)
+  - Active (Studies market,bussiness,  )
+  - Passive (Just invest and forget )
+  - Full time stock trading (spending all time in day , main source of income as stock trading )(impossible for single individual )
+    For full time stock trading you need mim 3
+    - Market Analysis person (advance stock-statics analyisi, stock-trend and exprence in trading )
+    - Programmer  person (advance neural network, grafan for display, html to show resutls, data base )
+    - Investor     
+   
+
+Trading Strategies
+- short-term trading 
+  - Intra day trading(day trading)
+  - Swing trading (15 day )
+  - Trading like a casino (gambling) (probabilty, programming,  alogirthum)
+    - Means there is opportunite that tesla(probalility 75%) then i take opportunitye to buy 
+    - But result is losses if my losses is 1% then i will sell 
+    - most people win small but loss more
+- long-term trading [logic,policities, geo-politics,covid, wars,climate-change, rail-coches,ethonal-base cars]
+  - consumer-requiremnt (COMMODITIES)
+  - top trends (ethonal based car,plantation,production, climate contorl(ev(lithum ion battery), hydrogen, ), chip shortage, oil, weat, defeance, pcb 5.0 )
+  - latest technology (windows vs mac, tsmc vs amd, aws vs azure,  )
+- Trading type
+  - Discretion (random, of by expericance without any some logic )
+  - Systemtically Trading (Probalility Gramble)
+     - SOP (Standard Operating Procedure)
+       - Stock Selection (standard )
+       - Entry Rules (thresholds )
+         - Example : Stock should make atleast 52 week high() 
+       - Exit Price,Stop loss  (thresholds)
+         - Example : Stock loss at 10 week ?(round)
+         - Exaple:  Set stop loss at 70%  
+       - algo-trading (strategy)
+         - Target: 10 week low 
+       - backtesting
+         - sample size should we large 200 trades
+         - atleast 1 bear, and 1 bull , market phase
+ 
+         
+      
+Applications:
+-   Growth (google ) https://groww.in/
+-   small case ( online stock, open dmart account )
+-   upstocks (online stocks )
+-   kubera (Funtual funds )
+    
+Get update 
+Think School: https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA
+small case 
+https://www.youtube.com/watch?v=I9p5K2Ke2MA
+** Trading by Stock Indexing
+10 important things to look, Why always Index Options? Why not Stock
+https://www.youtube.com/watch?v=Jvcq1ZYA6V8&list=PLy-pBKnaHHjuZZzzr8aE7w8uJp_KnUJoI&index=12
+stock is highly volatile
+liqudity
+High Margin
+Volatile High Margin
+Circuit Limit
+FNO
+DELTA hEDGING
+hEDGINING
+
+
+
+
+** What are the difference between trading in Future and Options?
+https://www.youtube.com/watch?v=wJFpPf2IOH8&list=PLy-pBKnaHHjuZZzzr8aE7w8uJp_KnUJoI&index=7
+
+Why is Mukesh Ambani's Reliance Partnering with 7-Eleven Store chain? : Business strategy case study
+https://www.youtube.com/watch?v=3KkHTHZckEY
+* Stock Exchange
+- Bombady Stock Exchange (BSE)
+- National Stock Exchange (NSE)
+
+What stock indexing
+Open Demat Account and start investing in stocks with upstox: https://upstox.com/open-account/?f=EG...
+start investing in US Stocks/Funds with Vested: https://vested.co.in/
+
+
+** Gold ETF , Gold Fund, digital gold
+*Gold ETF vs Gold Funds | Which is More profitable investment? LLA GOLD Ep#3 Financial Advice*
+https://www.youtube.com/watch?v=nGEk3WHocWw
+
+Gold ETF (gold pure glod , rbi gold monitoization scheme, gold mining companys..etc )
+asset manage company (google app zerodah, need dmart-account  )
+
+Gold Fund (is mutual funds => indirectly invest in gold etf )
+
+differences
+
+|                   | gold etf                                     | gold funds    |
+|-------------------+----------------------------------------------+---------------|
+| How to buy        | demat-account                                | mutal-account |
+| sip               | no                                           | yes           |
+| minumum in        | high                                         | low           |
+| liquidity         | high                                         | high          |
+| exit load         | no                                           | 1% 2%         |
+| expense ration    | 1%                                           | 1.5%          |
+| brokerage         | 0%(zerodah)                                  | No            |
+|                   | depend on broker                             |               |
+| tax               | sell stock < 3year(short term capital gains) |               |
+|                   | > 3year (20% tax, 4% cess )                  |               |
+| Physical delivery | min 1kg                                      | no            |
+| loan              | no                                           | no            |
+| cost              | cheap                                        | expensive     |
+| min invest amount | high                                         | low           |
+| sip               | no                                           | yes           |
+| google            | zerodah                                      | kubera        |
+
+
+Some Gold ETFs: (assert under management : choose etf with high captical )
+  GOLD BEES - Nippon (2290 Cr)
+  SETFGOLD - SBI (626 Cr)
+  HDFCMFGETF - HDFC
+  GOLD SHARE - UTI
+  KOTAKGOLD - KOTAK
+
+
+Digital Gold :
+   Buy + 3% more  GST 
+   sell + 3% more spread(transaction cost,storage and insurance cost )
+   
+
+* Alog Trading
+https://www.youtube.com/playlist?list=PLkOvExocs7fbTBEo2bZ35TiZF43b17ec6
+
+
+Live data using kite connect(Zerodah) for Rs 4000 per months
+https://www.youtube.com/watch?v=P9ICtI7R1c8
+
+* Trading Campus
+
+Reseach and analysis of Stock-Trading
+
+By: Trading Campus
+Download Historical Data from NSE India using Python | Convert it into Weekly and Monthly Time Frame
+
+https://www.youtube.com/watch?v=DIq7f_C06FA&list=PLkOvExocs7fbTBEo2bZ35TiZF43b17ec6&index=7
+
+
+https://www.youtube.com/c/TradingCampus/playlists
+* ========================================================
+Reality of GST Savings on buying Smartphones | CA Sahil Jain
+https://www.youtube.com/channel/UC4O9NXPPu56VVFBNXPCH0cA
+
+
+[ignore it , /just of research N analyisi of gold/ ]DON'T BUY GOLD IN 2021 BEFORE WATCHING THIS!
+https://www.youtube.com/watch?v=YcuHzlRF9yc
+
+
+
+

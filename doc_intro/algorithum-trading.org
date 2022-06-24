@@ -1,0 +1,124 @@
+
+* Struture of Algorithm Trading
+- Mathematical Model (idea) of the stock
+  |_ Code Implementation 
+      |_ Testing & Optimizaton
+         Backtesting (testing how your alogrith work if you traded in past)
+         *NOTE* Backtesting results  < Real Results
+          |_ Live Deployment
+source: https://youtu.be/EeSrQdab0s0?t=52
+
+
+** requirment get data yahoo[not-reliable], google, nsa, zerodah, uprock..etc
+
+Prerequisites:
+- Basic programming python
+- Basic of trading, market, stock
+    
+** How it work
+
+data -> Trading-alogirthum -> broker (Trade Execution, API Manually)
+
+
+** Trading- Alogirthum Strategy
+-
+  Research
+  |_ Coding 
+     |_ Backtesting 
+        |_ Optimization
+           |_ Paper Trading 
+              |_ Live Trading 
+                 |_ Monitoring  
+source : https://youtu.be/K2fnO7wTUvM?t=475
+
+
+Model :
+Close 
+- if profit is mode than 10%
+- if losses if more tha 10%
+during 1 month
+
+https://youtu.be/WQwyKfef80k
+
+
+
+https://www.youtube.com/watch?v=QNznD9hMEh0
+
+
+
+* Real time Experiance of 10 year expert
+https://www.youtube.com/watch?v=uueqy45XLv4
+* Calculate the tax for trading
+trading is digital income
+itr-3 for bussiness income
+intra-day trading is speculative income 
+ 
+
+* Python
+quandal module 
+
+Creating Stock Analysis Dashboard using Streamlit and Python
+https://www.youtube.com/watch?v=CJcSDR2onpQ
+
+https://www.youtube.com/watch?v=s3CnE2tqQdo&t=2685s
+Build a Stock Trend Prediction Web App in 
+
+https://www.youtube.com/watch?v=fqltiq5EahU
+Introduction to Algorithmic Trading Using Python - How to Create & Test Trading Algorithm
+
+https://www.youtube.com/watch?v=f911dDCELX4
+What is Algorithmic Trading & How to Get started
+
+
+
+*  <2021-10-14 Thu 00:35> Real time trading expericance 
+How To Earn Money In Stock Market Using Python and Data Analysis Of Stock Exchange Data?
+https://www.youtube.com/watch?v=UGpFieDmI-o
+
+
+* Real time implementation of kite connect and zerodah for stream ing data [NO-AUTO Trading, semi-automated]
+
+https://www.youtube.com/watch?v=P9ICtI7R1c8
+
+live stream data :  Rs 4000 per months in kite connect
+
+What is prg tradding
+Pay / subscribing for live data
+
+Accessign live data (kite, zerodah)
+
+Listing requirement and Techical-Analyisis
+- listen or create or copy historical data in local server which consist of open close high low, volume using this we need to create some index or Techical index we need to create like, volume, ol, rsi,  rolling moving by 20,50,
+
+Buy
+- if price > vwap
+  if rise in volume > 2x of avg volume (20 rolling volume)
+  rsi > 60 
+  reducing OI(20 SMA ON OI)
+  
+review powe-BI microsoft to view dash board
+
+
+
+
+** Kite Connec
+Kite Connect 3 / API documentation
+    Introduction
+    Response structure
+    Exceptions and errors
+    User
+    Orders
+    GTT orders
+    Portfolio
+    Market quotes and instruments
+    WebSocket streaming
+    Historical candle data
+    Postbacks / WebHooks
+    Mutual funds
+    Margin calculation
+    Publisher - Offsite orders
+    Publisher JS plugin
+    Mobile and Desktop apps
+    Changelog
+
+

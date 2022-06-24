@@ -1,0 +1,24 @@
+https://hicywym.blogspot.com/2019/08/27-how-many-nakshatra-in-astrology.html
+
+c=r=1000
+# rashi 
+s=12
+rasi_st= 0.7*r
+rasi_end= 0.95*r
+
+###
+
+for n in range(0,s):
+#    print(r+rasi_st*math.sin(2*n*math.pi/s),r+rasi_st*math.cos(2*n*math.pi/s), r+rasi_end*math.sin(2*n*math.pi/s), r+rasi_end*math.cos(2*n*math.pi/s))
+    print("""<line x1="{}" y1="{}" x2="{}" y2="{}" stroke="black" stroke-width="1" /> """.format(r+rasi_st*math.sin(2*n*math.pi/s),r+rasi_st*math.cos(2*n*math.pi/s), r+rasi_end*math.sin(2*n*math.pi/s), r+rasi_end*math.cos(2*n*math.pi/s)))
+
+
+# nakastra 27 + 1 abijit
+s=27
+
+for n in range(0,s):
+#    print(r+rasi_st*math.sin(2*n*math.pi/s),r+rasi_st*math.cos(2*n*math.pi/s), r+rasi_end*math.sin(2*n*math.pi/s), r+rasi_end*math.cos(2*n*math.pi/s))
+    print("""<line x1="{}" y1="{}" x2="{}" y2="{}" stroke="red" stroke-width="1" /> """.format(r+rasi_end*math.sin(2*n*math.pi/s),r+rasi_end*math.cos(2*n*math.pi/s), r+r*math.sin(2*n*math.pi/s), r+r*math.cos(2*n*math.pi/s)))
+
+
+
